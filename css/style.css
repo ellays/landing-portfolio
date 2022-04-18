@@ -75,7 +75,7 @@ body {
 }
 
 .header__top-inner {
-    padding-top: 75px;
+    padding-top: 6px;
     display: flex;
     justify-content: space-between;
     align-items: center;
